@@ -1,0 +1,22 @@
+{
+  "customer_name": "Maya Chen",
+  "primary_contact_email": "maya.chen@personal.test",
+  "current_order_number": "A9-20418-7712",
+  "item_name": "AeroLite Carry-On Spinner 22\"",
+  "issue_reason": "Front-left wheel wobbles after first trip",
+  "backup_contact_name": "",
+  "backup_contact_email": "",
+  "alternate_delivery_notes": "",
+  "additional_purchase_context": "",
+  "billing_or_invoice_details": "",
+  "support_history_context": "",
+  "loyalty_or_preference_details": "",
+  "subscribe_future_updates": false,
+  "save_profile_for_future_support": false,
+  "stay_signed_in": false,
+  "optional_fields_filled": [],
+  "checked_checkboxes": [],
+  "submitted_at": "2026-05-28T12:31:42-04:00",
+  "wizard_completed_steps": [],
+  "wizard_current_step": "submitted"
+}

@@ -1,0 +1,11 @@
+{
+  "scene": 1,
+  "portal_mode": "benign",
+  "support_mode": "full-summary",
+  "model": "gpt-5.4",
+  "run_id": null,
+  "max_steps": 40,
+  "headless": false,
+  "ephemeral_browser_profile": true,
+  "ephemeral_downloads_dir": true
+}

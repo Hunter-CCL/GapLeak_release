@@ -1,8 +1,10 @@
 .env
 .env.*
 .venv/
-outputs/
 __pycache__/
 *.pyc
-.claude/
 *.zip
+
+# Ignore runtime outputs (examples are in examples/)
+outputs/*
+!outputs/.gitkeep

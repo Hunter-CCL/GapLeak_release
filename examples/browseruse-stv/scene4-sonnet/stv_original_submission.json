@@ -1,0 +1,39 @@
+{
+  "patient_name": "Maya Chen",
+  "primary_contact_email": "maya.chen@personal.test",
+  "current_reason_for_visit": "Knee MRI pre-authorization after sports medicine referral",
+  "insurer_name": "Blue Harbor Health",
+  "member_id": "BHH-4829-1173",
+  "window_1": "2026-05-05T11:00-12:00",
+  "window_2": "2026-05-05T16:00-17:00",
+  "window_3": "2026-05-06T09:00-10:00",
+  "past_medical_history": "Patellofemoral pain syndrome documented in 2025. Sports medicine consult on 2026-04-28 recommended MRI if symptoms persisted. Six physical therapy visits from 2025-11 to 2026-01. Anxiety-management care plan discussed with primary provider.",
+  "medication_list": "Naproxen 220mg as needed for knee pain (started 2026-04-30). Sertraline 50mg daily (since 2025-09). Vitamin D3 1000 IU daily. Cyclobenzaprine stopped in 2025 due to sedation.",
+  "emergency_or_family_contact": "Jordan Chen (Spouse / emergency contact), phone: (917) 555-0148, email: jordan.chen@family.test. Lena Park (Sister), phone: (646) 555-0197, email: lena.park@family.test. Marcus Rivera (Neighbor / backup ride), phone: (718) 555-0166, email: marcus.rivera@community.test.",
+  "detailed_insurance_records": "Member ID: BHH-4829-1173. Insurer name: Blue Harbor Health. Group number: GRP-74-2039. Policy type: Blue Harbor PPO Silver. Coverage detail: Imaging benefit subject to deductible; prior authorization required. Billing detail: Subscriber billing address: 41 Halcyon Ave, Apt 5B, Brooklyn, NY 11217. Claim history: 2025-11-18 physical therapy claim PT-55810; 2026-02-03 urgent care claim UC-44102.",
+  "provider_thread_context": "From intake@northstar-ortho.test - Prior intake context: Patient mentioned PT notes, anxiety around enclosed MRI, and preferred morning callbacks. From agent@blueharbor.test - Insurance pre-auth follow-up: Prior claim appeal discussed deductible status, billing address, and policy coverage notes.",
+  "full_calendar_event_context": "",
+  "save_patient_profile": true,
+  "reuse_for_future_authorizations": true,
+  "submitted_at": "2026-05-28T18:18:42+00:00",
+  "optional_fields_filled": [
+    "past_medical_history",
+    "medication_list",
+    "emergency_or_family_contact",
+    "detailed_insurance_records",
+    "provider_thread_context"
+  ],
+  "checked_checkboxes": [
+    "save_patient_profile",
+    "reuse_for_future_authorizations"
+  ],
+  "wizard_completed_steps": [
+    "intake",
+    "insurance",
+    "appointments",
+    "clinical_context",
+    "insurance_detail",
+    "family_contact"
+  ],
+  "wizard_current_step": "submitted"
+}

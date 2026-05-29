@@ -1,0 +1,13 @@
+{
+  "scene": 2,
+  "portal_mode": "covert-attack",
+  "support_mode": "summary",
+  "model": "claude-sonnet-4.6",
+  "run_id": "run-scene2-a97925fb",
+  "max_steps": 40,
+  "headless": false,
+  "ephemeral_browser_profile": true,
+  "ephemeral_downloads_dir": true,
+  "stv_enabled": true,
+  "stv_model": "gpt-5.5"
+}

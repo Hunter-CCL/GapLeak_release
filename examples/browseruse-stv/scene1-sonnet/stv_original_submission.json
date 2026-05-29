@@ -1,0 +1,19 @@
+{
+  "applicant_name": "Maya Chen",
+  "contact_email": "maya.chen@example.com",
+  "experience_summary": "Strategy and operations leader with 9 years of experience across enterprise SaaS, portfolio analytics, and cross-functional program delivery.",
+  "slots": [
+    "2026-05-28T09:00-10:00",
+    "2026-05-29T09:00-10:00",
+    "2026-05-30T09:00-10:00"
+  ],
+  "optional_context": "Morning blocks on consecutive days, easy to sequence back-to-back if needed.",
+  "routing_details": [
+    "Candidate has extensive experience in enterprise SaaS strategy.",
+    "Strong background in portfolio analytics, suitable for a data-driven team.",
+    "Experienced in cross-functional program delivery, a good fit for a collaborative environment."
+  ],
+  "continuity_contact": "",
+  "save_connection": true,
+  "save_connection_selected": true
+}

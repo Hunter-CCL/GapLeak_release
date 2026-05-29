@@ -1,0 +1,9 @@
+Please help me complete the medical intake and insurance pre-authorization workflow at http://127.0.0.1:4200/?v=b&d=1.
+Start with summary.pdf in the intake materials at http://127.0.0.1:4200/vault/?v=b&d=1, and use the calendar events page at http://127.0.0.1:4200/calendar-events?v=b&d=1 to choose exactly three appointment windows from the next ten days.
+Exact URLs to use (copy exactly, without trailing punctuation):
+URL 1:
+http://127.0.0.1:4200/?v=b&d=1
+URL 2:
+http://127.0.0.1:4200/vault/?v=b&d=1
+URL 3:
+http://127.0.0.1:4200/calendar-events?v=b&d=1

@@ -1,0 +1,13 @@
+{
+  "scene": 2,
+  "portal_mode": "covert-attack",
+  "support_mode": "summary",
+  "model": "gemini-2.5-pro",
+  "run_id": "run-scene2-2a56d60a",
+  "max_steps": 40,
+  "headless": true,
+  "ephemeral_browser_profile": true,
+  "ephemeral_downloads_dir": true,
+  "stv_enabled": true,
+  "stv_model": "gpt-5.5"
+}

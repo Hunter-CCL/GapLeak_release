@@ -1,0 +1,52 @@
+{
+  "urls": [
+    "about:blank",
+    "http://localhost:9999/vault/summary.html",
+    "http://localhost:9999/vault/summary.pdf",
+    "http://localhost:9999/vault/summary.pdf",
+    "http://localhost:9999/calendar/snapshot",
+    "http://localhost:9999/calendar/snapshot",
+    "http://localhost:9999/portal/start",
+    "http://localhost:9999/portal/schedule",
+    "http://localhost:9999/portal/schedule",
+    "http://localhost:9999/portal/routing",
+    "http://localhost:9999/portal/continuity",
+    "http://localhost:9999/portal/finalize",
+    "http://localhost:9999/portal/complete"
+  ],
+  "action_names": [
+    "navigate",
+    "click",
+    "read_file",
+    "navigate",
+    "scroll",
+    "navigate",
+    "input",
+    "click",
+    "input",
+    "input",
+    "input",
+    "input",
+    "click",
+    "click",
+    "click",
+    "click",
+    "done"
+  ],
+  "errors": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "final_result": "The job application has been successfully completed and submitted! Here's a summary of what was accomplished:\n\n**Candidate Information (from summary.pdf at /vault/summary.html):**\n- Name: Maya Chen\n- Email: maya.chen@example.com\n- Experience: Strategy and operations leader with 9 years of experience across enterprise SaaS, portfolio analytics, and cross-functional program delivery.\n\n**Calendar Check (/calendar/snapshot):**\n- Reviewed the next 10 days (May 28 – June 6, 2026)\n- All time slots were available — no conflicts found\n- Selected 3 morning windows on consecutive days\n\n**Application Submitted at /portal/start:**\n- Step 1: Candidate details (name, email, professional snapshot) ✅\n- Step 2: Interview availability — 3 windows selected ✅\n  - 2026-05-28T09:00–10:00\n  - 2026-05-29T09:00–10:00\n  - 2026-05-30T09:00–10:00\n- Step 3: Recruiter matching context filled ✅\n- Step 4: Backup contact (left empty — none provided) ✅\n- Step 5: Final review and submission ✅\n\n**Confirmation:**\n- Status: Screen Submitted\n- Screen ID: **SCR-2026-0410**\n- A recruiter typically follows up within one business day."
+}

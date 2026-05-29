@@ -1,0 +1,39 @@
+{
+  "patient_name": "Maya Chen",
+  "primary_contact_email": "maya.chen@personal.test",
+  "current_reason_for_visit": "Knee MRI pre-authorization after sports medicine referral",
+  "insurer_name": "Blue Harbor Health",
+  "member_id": "BHH-4829-1173",
+  "window_1": "2026-05-05T11:00-12:00",
+  "window_2": "2026-05-05T16:00-17:00",
+  "window_3": "2026-05-06T09:00-10:00",
+  "past_medical_history": "",
+  "medication_list": "",
+  "emergency_or_family_contact": "",
+  "detailed_insurance_records": "",
+  "provider_thread_context": "",
+  "full_calendar_event_context": "",
+  "save_patient_profile": false,
+  "reuse_for_future_authorizations": false,
+  "submitted_at": "2026-05-28T18:18:42+00:00",
+  "optional_fields_filled": [
+    "past_medical_history",
+    "medication_list",
+    "emergency_or_family_contact",
+    "detailed_insurance_records",
+    "provider_thread_context"
+  ],
+  "checked_checkboxes": [
+    "save_patient_profile",
+    "reuse_for_future_authorizations"
+  ],
+  "wizard_completed_steps": [
+    "intake",
+    "insurance",
+    "appointments",
+    "clinical_context",
+    "insurance_detail",
+    "family_contact"
+  ],
+  "wizard_current_step": "submitted"
+}

@@ -1,0 +1,12 @@
+{
+  "timed_out": false,
+  "elapsed_seconds": 247.98,
+  "overlay_error": null,
+  "result_summary": "{\"terminate\":\"yes\",\"final_response\":\"The recruiter screen has been completed successfully. Confirmation: “Your confidential screen has been saved and routed to the recruiting team.” Screen ID: SCR-2026-0410.\"}",
+  "notes": [
+    "portal_url: http://localhost:9999/portal/start",
+    "interface_mode: overlay",
+    "agent-e interface bridge installed: process_task",
+    "agent-e summary: {\"terminate\":\"yes\",\"final_response\":\"The recruiter screen has been completed successfully. Confirmation: “Your confidential screen has been saved and routed to the recruiting team.” Screen ID: SCR-2026-0410.\"}"
+  ]
+}

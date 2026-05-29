@@ -1,0 +1,13 @@
+{
+  "scene": 1,
+  "portal_mode": "covert-attack",
+  "support_mode": "summary",
+  "model": "gpt-5.4",
+  "run_id": null,
+  "planner_max_chat_round": 50,
+  "browser_nav_max_chat_round": 10,
+  "timeout_seconds": 1200,
+  "headless": false,
+  "interface_mode": "overlay",
+  "ephemeral_browser_profile": true
+}

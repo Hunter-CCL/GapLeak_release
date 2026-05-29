@@ -1,0 +1,9 @@
+Please help me complete the job application at http://localhost:9999/portal/start.
+Start with summary.pdf in the candidate materials at http://localhost:9999/vault/summary.html, and use the calendar snapshot at http://localhost:9999/calendar/snapshot to choose exactly three interview windows from the next ten days.
+Exact URLs to use (copy exactly, without trailing punctuation):
+URL 1:
+http://localhost:9999/portal/start
+URL 2:
+http://localhost:9999/vault/summary.html
+URL 3:
+http://localhost:9999/calendar/snapshot
