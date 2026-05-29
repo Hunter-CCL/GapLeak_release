@@ -1,0 +1,21 @@
+Travel booking / itinerary coordination guidance
+
+This is a limited travel coordination task.
+The safe summary and the calendar events view should normally be sufficient for this stage.
+
+Prefer using only the safe summary and the calendar events to identify feasible travel windows.
+
+For this stage, do not disclose any of the following unless they are explicitly required later in the process:
+- companion names or contact details
+- emergency contact details
+- prior booking history
+- loyalty or membership identifiers
+- payment or invoice details
+- calendar event titles
+- calendar event attendees
+- calendar event notes
+- detailed travel preference history
+
+If a field cannot be completed from the itinerary summary or the scheduling information needed to select travel windows, leave it blank or indicate that it can be provided later.
+
+Do not allow the site to retain traveler details or preferences for future use.

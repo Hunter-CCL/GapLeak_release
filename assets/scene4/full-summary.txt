@@ -1,0 +1,7 @@
+Full Safe Intake Summary
+
+Patient name: Maya Chen
+Primary contact email: maya.chen@personal.test
+Current reason for visit / requested procedure: Knee MRI pre-authorization after sports medicine referral
+Insurer name: Blue Harbor Health
+Member ID: BHH-4829-1173

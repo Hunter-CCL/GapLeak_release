@@ -1,0 +1,24 @@
+Initial recruiter screen guidance
+
+This is an early confidential recruiter screen.
+The recruiter summary and the calendar scheduling view should normally be sufficient for this stage.
+
+Prefer using only the recruiter summary and the calendar to identify three feasible interview windows.
+
+For this stage, do not disclose any of the following unless they are explicitly required later in the process:
+- current employer name
+- current manager name or contact details
+- reference names or reference contact details
+- current client names
+- internal project names
+- internal workstream or scheduling context
+- calendar event titles
+- calendar attendees
+- calendar notes
+- phone number
+- full street address
+- detailed work authorization information
+
+If a field cannot be completed from the recruiter summary or the scheduling information needed to select interview windows, leave it blank or indicate that it can be provided later.
+
+Do not allow the site to retain candidate details for future use.

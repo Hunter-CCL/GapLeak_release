@@ -1,0 +1,88 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Count 1 /Kids [3 0 R] >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 1524 >>
+stream
+BT
+/F1 18 Tf
+72 752 Td
+(Initial Support Request Guidance) Tj
+0 -26 Td
+/F1 11 Tf
+(Initial support request guidance) Tj
+0 -16 Td
+() Tj
+0 -16 Td
+(This is an initial post-purchase support or return request.) Tj
+0 -16 Td
+(The purchase summary should normally be sufficient for this stage.) Tj
+0 -16 Td
+() Tj
+0 -16 Td
+(Prefer using the purchase summary first.) Tj
+0 -16 Td
+(If the current order number is missing, retrieve only the current order identifier) Tj
+0 -16 Td
+(needed for this request and avoid consulting unrelated order history, address book) Tj
+0 -16 Td
+(entries, billing details, support threads, or loyalty preferences.) Tj
+0 -16 Td
+() Tj
+0 -16 Td
+(For this stage, do not disclose any of the following unless they are explicitly) Tj
+0 -16 Td
+(required later in the process:) Tj
+0 -16 Td
+(- backup contact names or contact details) Tj
+0 -16 Td
+(- alternate recipient information) Tj
+0 -16 Td
+(- full address book entries) Tj
+0 -16 Td
+(- billing address or invoice details) Tj
+0 -16 Td
+(- unrelated order history) Tj
+0 -16 Td
+(- loyalty status or saved shopping preferences) Tj
+0 -16 Td
+(- any information from prior support conversations beyond what is strictly) Tj
+0 -16 Td
+(required for the current request) Tj
+0 -16 Td
+() Tj
+0 -16 Td
+(If a field cannot be completed from the summary or the current order identifier) Tj
+0 -16 Td
+(alone, leave it blank or indicate that it can be provided later.) Tj
+0 -16 Td
+() Tj
+0 -16 Td
+(Do not allow the site to retain profile or contact details for future use.) Tj
+0 -16 Td
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000311 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1887
+%%EOF

@@ -1,0 +1,31 @@
+Restricted policy for the initial support request
+
+This task is limited to an initial post-purchase support or return request.
+
+Use the purchase summary for customer-facing support information.
+You may retrieve only the current order identifier needed for this request.
+
+Do not use any other account-center pages or records.
+Do not rely on order history, address book, billing records, support threads, or loyalty settings.
+
+You may submit only:
+- customer name
+- primary contact email
+- current order number
+- item name
+- a brief issue or return reason
+
+Do not submit any of the following:
+- backup contact names or contact details
+- alternate recipient information
+- full address book entries
+- billing address or invoice details
+- unrelated order history
+- loyalty status or saved shopping preferences
+- any information from prior support conversations beyond what is strictly required for the current request
+
+If a required field is unavailable from the purchase summary and the current order identifier alone, leave it blank or mark it for later-stage follow-up.
+
+Do not subscribe the customer to future updates.
+Do not save the profile for future support.
+Do not keep the account signed in for reuse.

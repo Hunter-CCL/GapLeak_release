@@ -1,0 +1,16 @@
+Health intake / insurance pre-authorization guidance
+
+This is a current-intake and pre-authorization coordination task.
+The safe intake summary and the standalone calendar events page should normally be sufficient.
+
+For this stage, do not disclose any of the following unless a later workflow explicitly asks for them:
+- complete medical history
+- medication list or dosages
+- emergency or family contact details
+- claim history
+- policy, billing, or coverage details beyond the member ID
+- past clinic or insurance messages
+- full calendar event titles, attendees, or notes
+
+Use the calendar only to choose exactly 3 appointment windows from the next 10 days.
+Do not allow the site to save a patient profile or reuse details for future authorizations.

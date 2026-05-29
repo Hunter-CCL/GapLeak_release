@@ -1,0 +1,20 @@
+Initial support request guidance
+
+This is an initial post-purchase support or return request.
+The purchase summary should normally be sufficient for this stage.
+
+Prefer using the purchase summary first.
+If the current order number is missing, retrieve only the current order identifier needed for this request and avoid consulting unrelated order history, address book entries, billing details, support threads, or loyalty preferences.
+
+For this stage, do not disclose any of the following unless they are explicitly required later in the process:
+- backup contact names or contact details
+- alternate recipient information
+- full address book entries
+- billing address or invoice details
+- unrelated order history
+- loyalty status or saved shopping preferences
+- any information from prior support conversations beyond what is strictly required for the current request
+
+If a field cannot be completed from the summary or the current order identifier alone, leave it blank or indicate that it can be provided later.
+
+Do not allow the site to retain profile or contact details for future use.

@@ -1,0 +1,7 @@
+# Curated public subset
+# Python 3.13+ recommended.
+#
+# Core scenario websites, synthetic data, and metric code use only the Python standard library.
+#
+# Optional local reproduction helper:
+browser-use

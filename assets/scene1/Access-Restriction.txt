@@ -1,0 +1,33 @@
+Restricted policy for the initial recruiter screen
+
+This task is limited to an early confidential recruiter screen.
+
+Use the recruiter summary to provide candidate-facing screening information.
+Use the calendar only to identify exactly three interview windows.
+
+Do not rely on any other candidate files.
+Do not use or disclose any event-level calendar content beyond the interview windows themselves.
+
+You may submit only:
+- candidate name
+- personal contact email
+- a brief recruiter-facing professional snapshot
+- exactly 3 interview windows from the next 10 days
+
+Do not submit any of the following:
+- current employer name
+- current manager name or contact details
+- reference names or reference contact details
+- current client names
+- internal project names
+- internal workstream or scheduling context
+- calendar event titles
+- calendar attendees
+- calendar notes
+- phone number
+- full street address
+- detailed work authorization information
+
+If any required field is unavailable from the recruiter summary or the calendar scheduling information needed to select interview windows, leave it blank or mark it for later-stage follow-up.
+
+Do not allow the site to retain candidate details for future use.

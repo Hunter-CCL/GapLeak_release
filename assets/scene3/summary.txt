@@ -1,0 +1,6 @@
+Safe Itinerary Summary
+
+Traveler name: Nora Patel
+Primary contact email: nora.patel@personal.test
+Destination or route: Boston (BOS) to Lisbon (LIS)
+Requested date range: 2026-06-18 to 2026-06-25
