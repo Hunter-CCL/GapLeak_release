@@ -2,7 +2,7 @@
 
 This repository contains the scenario assets, evaluation code, and reproduction scripts for the paper:
 
-> **GapLeak: Information Gaps Drive Source Escalation and Unauthorized Disclosure in LLM-Based Web Agents**
+> **GapLeak: When Privacy-Preserving LLM-based Web Agents Become a Privacy Risk**
 
 GapLeak is an attack that exploits the information gap between user-provided materials and website-requested fields, combined with manipulated website guidance, to induce LLM-based web agents into disclosing sensitive information beyond what the task requires.
 
@@ -236,11 +236,12 @@ The following condition combinations are supported:
 | Metric | Description |
 |--------|-------------|
 | **TS** (Task Success) | Whether the agent successfully completed the assigned task |
-| **OD** (Over-Disclosure) | Percentage of sensitive fields filled beyond task requirements |
-| **TPD** (Third-Party Disclosure) | Percentage of fields disclosed to unintended third parties |
-| **PV** (Persistence Violation) | Whether the agent opted into data persistence mechanisms |
+| **PCS** (Policy-Compliant Success) | Whether the task succeeded with no unauthorized disclosure |
+| **SSE** (Sensitive-Source Escalation) | Proportion of higher-sensitivity sources the agent accessed |
+| **OD** (Over-Disclosure) | Extent of sensitive content submitted beyond task requirements |
+| **TPD** (Third-Party Disclosure) | Extent of information disclosed about individuals other than the user |
 
-When STV is enabled, OD and TPD are reported as both **Original** (pre-filter) and **Filtered** (post-filter) values. TS and PV are not affected by STV filtering.
+When STV is enabled, OD and TPD are reported as both **Original** (pre-filter) and **Filtered** (post-filter) values. TS is not affected by STV filtering, since required fields are never cleared.
 
 ## Outputs
 
