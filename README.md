@@ -59,8 +59,8 @@ GapLeak is an attack that exploits the information gap between user-provided mat
 ### 1. Install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/gapleak.git
-cd gapleak
+git clone https://github.com/Hunter-CCL/GapLeak_release.git
+cd GapLeak_release
 python -m venv .venv
 source .venv/bin/activate        # Linux/macOS
 # .venv\Scripts\activate         # Windows
